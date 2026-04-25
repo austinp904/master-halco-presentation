@@ -1,7 +1,7 @@
 # Claude Design — Copy-Paste Prompt
 
 Open Claude Design, start a new project in **Slide Deck** mode, paste
-the prompt below as your first message, and replace `{{REPO_URL}}` with
+the prompt below as your first message, and replace `https://github.com/austinp904/master-halco-presentation` with
 the GitHub URL of this folder. That's it.
 
 ---
@@ -10,7 +10,7 @@ the GitHub URL of this folder. That's it.
 
 I'm building a slide deck for a vendor training presentation. **Open this GitHub folder first and read `README.md` at the root before doing anything else** — it contains the full brief, design system, brand palette, callout component spec, animation primitives, folder map, per-section guidance, and rules of engagement:
 
-**{{REPO_URL}}**
+**https://github.com/austinp904/master-halco-presentation**
 
 The README is the source of truth. Treat everything below as a quick orientation, not a substitute.
 
@@ -59,7 +59,7 @@ When you're done with the first pass, give me a one-screen summary listing every
 
 ## Tips for using this prompt
 
-1. **Replace `{{REPO_URL}}` with the actual public GitHub URL** of this folder before pasting. Sample format: `https://github.com/austinp904/master-halco-presentation`.
+1. **Replace `https://github.com/austinp904/master-halco-presentation` with the actual public GitHub URL** of this folder before pasting. Sample format: `https://github.com/austinp904/master-halco-presentation`.
 2. **Wait for Claude Design to read the README before answering further questions.** It will likely produce the slide titles list before it starts rendering individual slides.
 3. **For section-level edits afterward**, paste a short follow-up like:
    > Rebuild the EcoPile cross-section reveal slide. Same data, but use Style B outline-only callouts on the cell-highlight rather than Style A solid blocks. Cite the visual-language doc.
