@@ -1,8 +1,8 @@
 # Claude Design — Copy-Paste Prompt
 
-Open Claude Design, start a new project in **Slide Deck** mode, paste
-the prompt below as your first message, and replace `https://github.com/austinp904/master-halco-presentation` with
-the GitHub URL of this folder. That's it.
+Open Claude Design, start a new project in **Slide Deck** mode, and
+paste the prompt below as your first message. The GitHub URL is
+already embedded — zero edits needed.
 
 ---
 
@@ -59,8 +59,7 @@ When you're done with the first pass, give me a one-screen summary listing every
 
 ## Tips for using this prompt
 
-1. **Replace `https://github.com/austinp904/master-halco-presentation` with the actual public GitHub URL** of this folder before pasting. Sample format: `https://github.com/austinp904/master-halco-presentation`.
-2. **Wait for Claude Design to read the README before answering further questions.** It will likely produce the slide titles list before it starts rendering individual slides.
+1. **Wait for Claude Design to read the README before answering further questions.** It will likely produce the slide titles list before it starts rendering individual slides.
 3. **For section-level edits afterward**, paste a short follow-up like:
    > Rebuild the EcoPile cross-section reveal slide. Same data, but use Style B outline-only callouts on the cell-highlight rather than Style A solid blocks. Cite the visual-language doc.
 4. **For palette/typography tweaks**, point at README.md §2 and ask for a specific token change.
