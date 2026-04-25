@@ -1,0 +1,19 @@
+# 171 MB Blender draft — exceeds GitHub's 100 MB per-file limit.
+# The 40 extracted keyframes in ecopiile/explainer-keyframes/ plus
+# the visual-language.md doc fully replace it as a design reference.
+ecopiile/ecopile 3d explainer draft.mp4
+
+# Raw rolling-caption VTT files from yt-dlp — we keep the cleaned
+# transcript (snapjacket-explainer-transcript.txt) instead.
+snapjacket/snapjacket-explainer.en.vtt
+snapjacket/snapjacket-explainer.en-orig.vtt
+
+# OS / editor scratch
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+__pycache__/
+*.pyc
