@@ -1,0 +1,10 @@
+{
+  "name": "pptx-export",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1",
+    "puppeteer-core": "^24.42.0"
+  }
+}
