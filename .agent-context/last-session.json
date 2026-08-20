@@ -1,39 +1,14 @@
 {
   "machine": "macbook",
-  "ts": "2026-06-10T13:33:10Z",
+  "ts": "2026-08-20T14:05:08Z",
   "branch": "main",
-  "commit": "eda6417",
-  "summary": "auto-checkpoint(macbook): idle save \u2014 .cursor, source-docs, ecopile-architect-presentation",
+  "commit": "23f6c46",
+  "summary": "auto-checkpoint(macbook): idle save \u2014 Compound stiffness test.mov\"",
   "files": [
     {
-      "path": ".cursor/hooks/state/continual-learning.json",
-      "added": "8",
-      "removed": "0"
-    },
-    {
-      "path": "ecopiile/source-docs/ecopile-submittal-package-2026.pdf",
+      "path": "seawall (upcoming)/email-attachments/Compound stiffness test.mov",
       "added": "-",
       "removed": "-"
-    },
-    {
-      "path": "ecopile-architect-presentation/README.md",
-      "added": "23",
-      "removed": "0"
-    },
-    {
-      "path": "ecopile-architect-presentation/index.html",
-      "added": "1678",
-      "removed": "0"
-    },
-    {
-      "path": "run-editable-server.sh",
-      "added": "5",
-      "removed": "0"
-    },
-    {
-      "path": "serve-editable.py",
-      "added": "78",
-      "removed": "0"
     }
   ],
   "dirty_remainder": []
